@@ -1,0 +1,10 @@
+env_tag = "Prod"
+user_id =100
+ec2_name="ec2-machine"
+ec2_ami="ami-00dfe2c7ce89a450b"
+ec2_instance = "t2.micro"
+cdir="10.0.0.0/16"
+tenancy="default"
+vpc_name="VPCMain"
+subnet_name="SubnetMain"
+subnet_cdir="10.0.0.0/24"
